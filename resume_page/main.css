@@ -1,0 +1,16 @@
+h1{
+  font-family: 'Gayathri', sans-serif;
+  color: burlywood;
+  text-align:center;
+}
+
+li{
+  list-style: none;
+  float: left;
+  margin: 0 20px;
+  text-align: center;
+}
+
+head{
+  background-image: href('https://4.bp.blogspot.com/-mNSWFFH2n5I/WuC3Jzyi0NI/AAAAAAACIVo/c_4xtcglifceDwfrUubjaShM7x4b44w_wCLcBGAs/s1600/angry_cat_filminspector.com_3.jpg')
+}
